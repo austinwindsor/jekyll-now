@@ -2,8 +2,8 @@
 name: "Austin Windsor"
 title: "The Art of Connecting"
 description: ""
-logo: 'assets/images/austin.JPG'
-favicon: 'assets/images/favicon.PNG'
+logo: 'assets/images/austin.jpg'
+favicon: 'assets/images/favicon.png'
 baseurl: "/blog"
 google_analytics: '277793939'
 disqus: 'technical-blog'
@@ -16,7 +16,7 @@ authors:
   austin:
     name: Austin Windsor
     display_name: Austin
-    avatar: 'assets/images/austin.JPG'
+    avatar: 'assets/images/austin.jpg'
     email: 
     description: "Data Scientist at KPMG Federal Digital Lighthouse"
 
