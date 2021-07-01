@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Language Modeling - Letting the AI Speak for Itself"
-author: marko
-categories: [ language modeling, narrative generation ]
+title:  "Creating Healthcare Claims Knowledge Graphs - Using NLP and Graph"
+author: austin
+categories: [ natural language, graph analytics ]
 image: assets/images/robot-therapist.jpg
 featured: false
 ---
