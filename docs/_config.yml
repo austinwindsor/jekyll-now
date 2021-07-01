@@ -2,8 +2,8 @@
 name: "Austin Windsor"
 title: "The Art of Connecting"
 description: ""
-logo: 'assets/images/austin.jpg'
-favicon: 'assets/images/favicon.png'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: "/blog"
 google_analytics: '277793939'
 disqus: 'technical-blog'
