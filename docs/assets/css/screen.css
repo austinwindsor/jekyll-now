@@ -95,6 +95,7 @@ section.recent-posts {
 
 .topsitetitle {
     margin-top: 3rem;
+    color: white;   
 }
 
 @media (min-width:576px) {
