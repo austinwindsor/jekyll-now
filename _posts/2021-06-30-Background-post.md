@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Natural Language Generation Background"
+title: "Welcome to my Personal Blog""
 author: austin
-categories: [ language modeling, deep learning, neural networks ]
+categories: [ admin ]
 image: assets/images/robot.png
 featured: true
 ---
