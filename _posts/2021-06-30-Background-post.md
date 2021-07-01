@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to my Personal Blog""
+title: "Welcome to my Personal Blog"
 author: austin
 categories: [ admin ]
 image: assets/images/robot.png
