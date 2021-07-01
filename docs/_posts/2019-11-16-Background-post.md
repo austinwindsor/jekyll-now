@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Natural Language Generation Background"
-author: andongmarko
+author: austin
 categories: [ language modeling, deep learning, neural networks ]
 image: assets/images/robot.png
 featured: true
