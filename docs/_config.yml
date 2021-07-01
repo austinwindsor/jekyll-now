@@ -4,7 +4,7 @@ title: "Austin Windsor"
 description: "I contain multitudes. Here are their stories."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: "/blog"
+baseurl: "https://austinwindsor.github.io/blog/"
 google_analytics: '277793939'
 disqus: 'technical-blog'
 mailchimp-list: 
