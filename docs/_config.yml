@@ -1,7 +1,7 @@
 # Site
 name: "Austin Windsor"
 title: "The Art of Connecting"
-description: "I contain multitudes. Here are those stories."
+description: "I contain multitudes. Here are their stories."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: "/blog"
