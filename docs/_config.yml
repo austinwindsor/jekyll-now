@@ -1,6 +1,6 @@
 # Site
-name: "Austin Windsor"
-title: "The Art of Connecting"
+name: "The Art of Connecting"
+title: "Austin Windsor"
 description: "I contain multitudes. Here are their stories."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -16,7 +16,7 @@ authors:
   austin:
     name: Austin Windsor
     display_name: Austin
-    avatar: 'assets/images/austin_square.jpg'
+    avatar: 'assets/images/austin_square1.jpg'
     email: 
     description: "Data Scientist at KPMG Federal Digital Lighthouse"
 
