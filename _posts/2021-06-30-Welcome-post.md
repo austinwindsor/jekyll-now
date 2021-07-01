@@ -8,7 +8,7 @@ featured: true
 ---
 
 {:.image-caption}
-*Image courtesy of Thilo from our trip to the Fushimi Inari Shrine (伏見稲荷大社）in Kyoto, Japan*    
+*Image courtesy of Amanda from our trip to Colca Canyon in Peru*    
 
 Welcome to my personal blog: The Art of Connecting! We'll see how long the name sticks. It doesn't mean that I'm an expert when it comes to connecting, but rather, it's more of an ambition: to become better at connecting! By connecting, I interpret this as connecting disparate data, different insights, different people, and different mindsets into a holistic nuanced understanding. It's a large and complicated goal, but at least that means I will have plenty to write about. I envision this blog serving two purposes:
 	- This blog primarily serves as a place where I can organize my thoughts on my professional and technical development.    
