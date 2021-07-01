@@ -43,13 +43,14 @@ ga('send', 'pageview');
 
 <!-- Begin Menu Navigation
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+<nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top mediumnavigation nav-down">
 
     <div class="container pr-0">
 
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.mainurl }}/">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+    <h3 class="sitetitle">{{ site.title }}</h1>
     </a>
     <!-- End Logo -->
 
@@ -68,11 +69,19 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.mainurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
 
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.mainurl }}#about">About</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.mainurl }}#Resume">Resume</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.mainurl }}#Contact">Contact</a>
                 </li>
 
 <!--                 <li class="nav-item">
