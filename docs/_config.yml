@@ -2,8 +2,8 @@
 name: "Austin Windsor"
 title: "The Art of Connecting"
 description: ""
-logo: 'https://www.raw.githubusercontent.com/austinwindsor/austinwindsor.github.io/assets/img/profile-img.png'
-favicon: 'https://www.raw.githubusercontent.com/austinwindsor/austinwindsor.github.io/assets/img/w-icon.png'
+logo: 'https://github.com/austinwindsor/austinwindsor.github.io/raw/main/assets/img/profile-img.jpg'
+favicon: 'https://github.com/austinwindsor/austinwindsor.github.io/raw/main/assets/img/w-icon.png'
 baseurl: "/blog"
 google_analytics: '277793939'
 disqus: 'technical-blog'
