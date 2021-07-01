@@ -89,6 +89,10 @@ section.recent-posts {
     margin-bottom: 0rem;
 }
 
+.navbar {
+    background-color: #040b14;
+}
+
 @media (min-width:576px) {
     .card-columns.listfeaturedtag {
         -webkit-column-count: 2;
@@ -274,8 +278,8 @@ span.post-read-more a:hover {
 
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
-    background: transparent;
-    color: green;
+    /*background: transparent;*/
+    color: black;
 }
 
 .mediumnavigation .navbar-brand {
