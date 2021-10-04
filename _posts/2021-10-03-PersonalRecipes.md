@@ -3,12 +3,12 @@ layout: post
 title:  "Personal Menu"
 author: austin
 categories: [ cooking, recipes, food ]
-image: assets/images/spices.jiff
+image: assets/images/spices.png
 featured: false
 ---
 
 {:.image-caption}
-*Image courtesy of wjct.org*
+*Image courtesy of Master Class .com*
 
 This post is to detail for my family and friends the various meals that I cook. This way, they can reference this page for links to the recipes that I use, as well as let me know which of my commonly frequented meals they would like me to make for them. I'll break it down by cuisine, although I only generally follow the recipes' guidances, so what I actually prepare can sit in a continuum between cuisines.
 
