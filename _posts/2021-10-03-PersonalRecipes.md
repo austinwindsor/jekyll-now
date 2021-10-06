@@ -122,4 +122,5 @@ Any other recipes that I make that don't easily fit into any of the above cuisin
 ### General Cooking Guidance
 1) Never use seasoning oils (e.g. extra virgin olive oil, sesame oil, etc.) for cooking. By seasoning oils, I refer to those that have low smoking points. They 1) easily burn and convert into carcinogens and as well as 2) turn bitter and ruin the flavor of the meal. Only use seasoning oils for low temperature food preparation. Otherwise, use oils with high smoking points: canola oil, soybean oil, coconut oil, etc.    
 2.) Blending a boiled potato in stock can make for a cream substitute for a creamy soup.     
+3.) To counter act too much salt, add an acid, such as lime juice or rice vinegar.      
 
