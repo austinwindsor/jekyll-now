@@ -3,7 +3,7 @@ layout: post
 title: "Setting Up a Microservice for AWS Private Cloud: Transforming Data Management for Business Excellence"
 author: austin
 categories: [ development, software ]
-image: assets/images/summarization-img.png
+image: assets/images/etl-pipeline.jpg
 featured: false
 ---
 
