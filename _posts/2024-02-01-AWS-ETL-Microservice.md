@@ -2,13 +2,13 @@
 layout: post
 title: "Setting Up a Microservice for AWS Private Cloud: Transforming Data Management for Business Excellence"
 author: austin
-categories: [ development, software ]
+categories: [ development, software , cloud]
 image: assets/images/etl-pipeline.jpg
 featured: false
 ---
 
 {:.image-caption}
-*Image courtesy of medium.com*
+*Image courtesy of ChatGPT*
 
 In today’s fast-paced business environment, having the latest information at your fingertips is crucial for making informed decisions. Our goal is to empower your business teams with detailed insights through an automated, serverless microservice built on AWS. This solution will provide the most current data with the ability to drill down into great detail, ensuring your team is always equipped with the best information available.
 
