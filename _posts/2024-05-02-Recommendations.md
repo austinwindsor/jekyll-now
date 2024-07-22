@@ -3,7 +3,7 @@ layout: post
 title: "Reducing Customer Churn with Personalized Recommendations: A Data-Driven Approach"
 author: austin
 categories: [ development, software ]
-image: assets/images/recommendations.png
+image: assets/images/recommendations.jpg
 featured: false
 ---
 
