@@ -4,7 +4,7 @@ title: "Welcome to my Personal Blog"
 author: austin
 categories: [ admin ]
 image: assets/images/austin.jpg
-featured: true
+featured: False
 ---
 
 {:.image-caption}

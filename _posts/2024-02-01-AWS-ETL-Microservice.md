@@ -4,7 +4,7 @@ title: "Setting Up a Microservice for AWS Private Cloud: Transforming Data Manag
 author: austin
 categories: [ development, software , cloud]
 image: assets/images/etl-pipeline.jpg
-featured: false
+featured: True
 ---
 
 {:.image-caption}
