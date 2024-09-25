@@ -17,6 +17,7 @@ Here's a quick non-comprehensive introduuction to visting Taiwan for my friends!
 Whether you're a seasoned traveler or visiting Taiwan for the first time, there are several things you should know to make the most of your trip. From areas to stay to must-try foods and logistical tips, this guide will help you navigate the dynamic city of Taipei.
 
 ## Table of Contents
+0. [Quick Background of Taiwan](#background-taiwan)
 1. [Areas to Stay](#areas-to-stay)
 2. [Pre-Arrival Tips](#pre-arrival-tips)
 3. [Arrival Essentials](#arrival-essentials)
@@ -29,6 +30,13 @@ Whether you're a seasoned traveler or visiting Taiwan for the first time, there 
 10. [Best Views in Taipei](#best-views-in-taipei)
 11. [Rainy Day Activities](#rainy-day-activities)
 12. [Day Trips from Taipei](#day-trips-from-taipei)
+13. [Earthquakes](#earthquakes)
+
+## Quick Background of Taiwan
+
+Taiwan has a rich history with strong mixtures from local indigenous peoples, Japan and China, as well as weaker inifluences Spain, Holland, and even Portugal. For example, an older name of for Taiwan is Formosa, rooted in the Portugese word for Beautiful Island. In recent history, different diasporas have also brought Vietnamese, Indonesia, and Bhurmese people to the island. 
+
+Taiwan also speaks many different languages! First and foremost is Mandarin (Standard Chinese), followed by Taiwanese. These are not to be confused! Mostly the older generation speaks Taiwanese but young people often use it for slang or cursing. Fewer and fewer people speak Taiwanese in Taipei, but it's more common in the south. Beyond these, indigenous people's also have their own langauges. Interstingly enough, some of these indigenous languages are also related to Austronesian peoples. There's currently a theory that Austronesian peoples originated from Taiwan!
 
 ## Areas to Stay
 
@@ -55,6 +63,7 @@ Before you arrive, here are a few important things to take care of:
 - **Tourist Subsidy**: Taiwan occasionally offers subsidies for tourists visiting the island. Check for any active programs before your trip to save money. Please read here for more details to potentially win NTD$5,000: [How to apply for Taiwan's NT$5,000 prize for foreign tourists](https://taiwannews.com.tw/news/4879972)
 - **Power Outlets**: Taiwan uses two-prong Type A outlets (the same as in the US), so bring an adapter if necessary, especially if your devices have a three-prong plug. 
 - **International Driver’s License**: If you plan on renting a scooter or car, make sure you have an international driver’s license. You'll need to provde both your passport and your international driver's license to be eligible. This is essential if you're considering the popular activity 環島 Cycle Around Taiwan.
+- **Social Media**: Most every Taiwanese person uses [LINE](https://line.me/tw/) in some form or fashion. You may encounter some restuarants or other facilities that may anticipate you already have LINE. I recommend first downloading and setting it up. Otherwise, restaurants/cafes heavily rely upon Google Maps and Instagram.
 
 ## Arrival Essentials
 
@@ -181,6 +190,15 @@ Here's an abbreviated list to help you start searching:
 - **Orchid Island**
 - **Xiaoliuqiu**
 - **Penghu**
+
+## Earthquakes
+
+aiwan is on the Ring of Fire, so it's often frequented by earthquakes. Even if there's an earthquake, there's nothing to worry about too much in Taipei. The buildings are all built to withstand tremors, and Taipei isn't affected too often. I would the below actions:
+
+1. Open up your front door. Sometimes buildings may shift a bit making it hard to open doors and escape in case of emergencies.
+2. Duck beneath or next to something stable with few fixtures overhead like a door hinge, a strong table, the refridgerator, etc.
+3. Keep a bottle of water in your hotel/apartment.
+4. Keep your phone charged.
 
 ## Conclusion
 
