@@ -3,7 +3,7 @@ layout: post
 title: "How to Get into Data Analytics: A Guide for Aspiring Data Engineers and Data Analysts"
 author: austin
 categories: [ data, career ]
-image: assets/images/data-career.png
+image: assets/images/data_science.jpg
 featured: false
 ---
 
